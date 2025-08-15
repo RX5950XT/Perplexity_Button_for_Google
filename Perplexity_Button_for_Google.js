@@ -5,7 +5,7 @@
 // @version      1.0
 // @description  在 Google 搜索結果頁面，於螢幕左上角新增一個固定的按鈕，點擊後會使用相同的關鍵詞在 Perplexity.ai 上進行搜索。
 // @description:en Add a fixed button to the top-left corner of the Google search results page. Clicking it will search for the same keyword on Perplexity.ai.
-// @author       Your Name
+// @author       RX5950XT
 // @match        https://www.google.com/search*
 // @match        https://www.google.com.*/search*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai
